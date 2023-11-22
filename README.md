@@ -14,7 +14,6 @@ The app will run on your preferred platform (iOS, Android).
 - GetX
 - Geolocator
 - REST API
-- Contributing
 
 Feel free to submit pull requests, improve documentation, or suggest new features. 
 
